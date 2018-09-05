@@ -1,0 +1,63 @@
+.l1 {
+    left: 60px;
+}
+
+.size {
+    width: 475px;
+    height: 350px;
+}
+
+.divL {
+    width: 550px;
+    height: 550px;
+    padding: 50px;
+    background: gray;
+}
+
+.divV {
+    width: 765px;
+    height: 650px;
+    padding: 50px;
+    margin-left: 20px;
+    /*margin-bottom: 820px;*/
+    background: gray;
+}
+
+.picL {
+    margin-left: auto;
+    
+}
+
+.picV {
+    margin-bottom: auto;
+}
+
+.size2 {
+    height: 250px;
+    width: 375px;
+}
+
+.compb {
+    background: grey;
+}
+
+.tc {
+    margin-left: auto;
+    margin-right: auto;
+    background: whitesmoke;
+    border: 1px;
+}
+
+.box-set {
+    position: relative;
+    height: auto;
+    background: darkgray;
+}
+
+.td {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+}
+
